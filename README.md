@@ -1,4 +1,4 @@
-<h1 align="center">👋 Привет, меня зовут Руслан </h1>
+<h1 align="center">👋 Привет, меня зовут Руслан ;-) </h1>
 <h3 align="center">  Data Scientist / Machine Learning Analyst</h3>
 
 <p align="center">
